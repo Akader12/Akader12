@@ -1,6 +1,6 @@
 # 💫 About Me:
-My name is Akader Mohamed Kassim
-I am javascribt developer
+My name is Akader Mohamed Kassim <br>
+I am javascribt developer <br>
 I am working on javascribt projectLab and course
 
 
