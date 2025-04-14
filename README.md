@@ -1,5 +1,7 @@
 # 💫 About Me:
-javascribt projectLab and course
+My name is Akader Mohamed Kassim
+I am javascribt developer
+I am working on javascribt projectLab and course
 
 
 ## 🌐 Socials:
